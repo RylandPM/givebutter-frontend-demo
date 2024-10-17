@@ -47,7 +47,10 @@ When you are finished, please upload your completed work to your Github and invi
 Please take some time to answer the following questions. Your answers should go directly in this `readme`.
 
 - Given more time, what would you suggest for improving the performance of this app?
+  Inclusion of further elements provided in the api, at the very least in the form of abilities and some way of indicating if the specific pokemon has some more annoying evolution requirements (item, trade, or happiness).
 
 - Is there anything you would consider doing if we were to go live with this app?
+  Ask myself how we are going to compete with the likes of smogon lol. More seriously take a serious look at including alternate search options outside of just name. Being able to search by type, ability, or even stat profile if you really want to get nitty gritty with it as well as including some of the visual elements for each mon would be a massive increase in usability .
 
 - What was the most challenging aspect of this work for you (if at all)?
+It took me three reads through the evolution chain output before I got the correct tree iteration sequence.
